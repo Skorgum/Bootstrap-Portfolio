@@ -128,12 +128,8 @@ h3, h2 {
     position: relative;
     float: left;
     width: 274px;
-    margin: 20px 0 25px;
+    margin: 35px;
     overflow: auto;
-}
-
-.project:nth-child(even) {
-    margin-right: 40px;
 }
 
 .project img {
